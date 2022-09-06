@@ -1,12 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net6.0-windows</TargetFramework>
-    <Nullable>enable</Nullable>
-    <UseWindowsForms>true</UseWindowsForms>
-    <ImplicitUsings>enable</ImplicitUsings>
-  </PropertyGroup>
+    <PropertyGroup>
+        <OutputType>WinExe</OutputType>
+        <TargetFramework>net6.0-windows</TargetFramework>
+        <Nullable>enable</Nullable>
+        <UseWindowsForms>true</UseWindowsForms>
+        <ImplicitUsings>enable</ImplicitUsings>
+	    <Company>WolfGear.tech</Company>
+	    <Authors>marcodkts and MathWintruff</Authors>
+		<Copyright>2022-2022 WolfGear.tech</Copyright>
+		<Product>CrazyMouse</Product>
+		<Description>CrazyMouse is a simple mouse pointer changer for Windows.</Description>
+		
+    </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="classes\Jigger.cs" />
