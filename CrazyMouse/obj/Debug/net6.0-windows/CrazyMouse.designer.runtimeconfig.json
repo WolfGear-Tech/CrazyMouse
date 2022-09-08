@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Destrucktos\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Destrucktos\\.nuget\\packages",
+      "C:\\Users\\matheus.wintruff\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\matheus.wintruff\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

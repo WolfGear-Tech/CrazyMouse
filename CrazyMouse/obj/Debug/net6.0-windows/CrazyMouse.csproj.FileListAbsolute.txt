@@ -15,3 +15,20 @@ C:\Users\Destrucktos\source\repos\WolfGear-Tech\CrazyMouse\CrazyMouse\CrazyMouse
 C:\Users\Destrucktos\source\repos\WolfGear-Tech\CrazyMouse\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.pdb
 C:\Users\Destrucktos\source\repos\WolfGear-Tech\CrazyMouse\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.genruntimeconfig.cache
 C:\Users\Destrucktos\source\repos\WolfGear-Tech\CrazyMouse\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\ref\CrazyMouse.dll
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.csproj.AssemblyReference.cache
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.CrazyMouseUI.resources
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.csproj.GenerateResource.cache
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.AssemblyInfoInputs.cache
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.AssemblyInfo.cs
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.csproj.CoreCompileInputs.cache
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.dll
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\refint\CrazyMouse.dll
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.pdb
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\bin\Debug\net6.0-windows\CrazyMouse.exe
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\bin\Debug\net6.0-windows\CrazyMouse.deps.json
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\bin\Debug\net6.0-windows\CrazyMouse.runtimeconfig.json
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\bin\Debug\net6.0-windows\CrazyMouse.dll
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\bin\Debug\net6.0-windows\CrazyMouse.pdb
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\CrazyMouse.genruntimeconfig.cache
+C:\Users\matheus.wintruff\Documents\Projects\Visual Studio\CrazyMouse\CrazyMouse\obj\Debug\net6.0-windows\ref\CrazyMouse.dll

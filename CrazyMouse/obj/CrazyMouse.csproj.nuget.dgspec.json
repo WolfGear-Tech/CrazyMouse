@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Destrucktos\\source\\repos\\WolfGear-Tech\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj": {}
+    "C:\\Users\\matheus.wintruff\\Documents\\Projects\\Visual Studio\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Destrucktos\\source\\repos\\WolfGear-Tech\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj": {
+    "C:\\Users\\matheus.wintruff\\Documents\\Projects\\Visual Studio\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Destrucktos\\source\\repos\\WolfGear-Tech\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj",
+        "projectUniqueName": "C:\\Users\\matheus.wintruff\\Documents\\Projects\\Visual Studio\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj",
         "projectName": "CrazyMouse",
-        "projectPath": "C:\\Users\\Destrucktos\\source\\repos\\WolfGear-Tech\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj",
-        "packagesPath": "C:\\Users\\Destrucktos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Destrucktos\\source\\repos\\WolfGear-Tech\\CrazyMouse\\CrazyMouse\\obj\\",
+        "projectPath": "C:\\Users\\matheus.wintruff\\Documents\\Projects\\Visual Studio\\CrazyMouse\\CrazyMouse\\CrazyMouse.csproj",
+        "packagesPath": "C:\\Users\\matheus.wintruff\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matheus.wintruff\\Documents\\Projects\\Visual Studio\\CrazyMouse\\CrazyMouse\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Destrucktos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matheus.wintruff\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

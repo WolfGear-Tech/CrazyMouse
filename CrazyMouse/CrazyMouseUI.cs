@@ -24,7 +24,7 @@ namespace CrazyMouse
 
         private void TbxJigglerFrequency_KeyPress(object sender, KeyPressEventArgs e)
         {
-            if (!char.IsDigit(e.KeyChar))
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar != (char)8)
             {
                 e.Handled = true;
             }
